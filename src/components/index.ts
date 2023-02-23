@@ -1,4 +1,3 @@
-import { Text } from "./Text";
-import { Header } from "./Header";
+import { Header } from './Header';
 
-export { Text, Header };
+export { Header };
